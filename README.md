@@ -43,9 +43,3 @@ El proyecto está documentado en tres informes técnicos que cubren la teoría, 
 * **Validación de Hardware:** Experiencia práctica en el montaje de circuitos de potencia, accionamiento de **MOSFETs de alto voltaje** (IRFP460A) y comprobación del circuito de control.
 * **Instrumentación:** Dominio en la medición de señales de conmutación de alta velocidad utilizando el **Osciloscopio** y análisis de resultados contra la teoría.
 * **Análisis Documental:** Capacidad para generar documentación técnica detallada que respalde el trabajo de ingeniería.
-
-**(Imagen de Simulación PSIM Buck/Boost)**
-![Gráfico de Voltaje y Corriente en PSIM](Docs/PSIM_Buck_Boost_Sim.png)
-
-**(Imagen de Validación en Laboratorio Buck Converter)**
-![Medición de Conmutación de MOSFET en Osciloscopio](Docs/Osciloscopio_Buck.png)
